@@ -1,12 +1,12 @@
-# SAP QA Automation Dashboard
+# SAP QA Portal
 
-## Setup
+## Quick Start
 ```bash
 npm install
 npm run dev
 ```
 
-## Build
+## Deploy
 ```bash
-npm run build
+npm run deploy
 ```

@@ -1,7 +1,7 @@
 {
-  "name": "sap-qa-dashboard",
+  "name": "sap-qa-portal",
   "version": "1.0.0",
-  "homepage": "https://PATAAMI.github.io/sap-qa-dashboard",
+  "homepage": "https://PATAAMI.github.io/sap-qa-portal",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
