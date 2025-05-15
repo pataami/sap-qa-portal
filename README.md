@@ -1,2 +1,12 @@
-# sap-qa-portal
-SAP QA Automation Portal
+# SAP QA Automation Dashboard
+
+## Setup
+```bash
+npm install
+npm run dev
+```
+
+## Build
+```bash
+npm run build
+```
